@@ -22,13 +22,13 @@
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
-## Descrição do projeto 🛠️
+## Descrição do projeto
 
 <p align="justify">
   Um projeto parte do desafio prático do programa ONE + Alura, Challenge do Amigo Secreto. Desenvolvido com HTML, CSS e JavaScript.
 </p>
 
-## Funcionalidades ✨
+## Funcionalidades
 
 :heavy_check_mark: **Adicionar amigos**: Insira os nomes dos participantes do amigo secreto. 
 
@@ -42,7 +42,7 @@
 
 > https://certificates-for-everyone-womakerscode.netlify.app/
 
-## Pré-requisitos 📋
+## Pré-requisitos
 
 - :warning: Navegador atualizado (Chrome, Firefox, Edge, OperaGX).
 - :warning:  Conexão com a internet (para carregar fontes do Google Fonts).
@@ -55,7 +55,7 @@ No terminal, clone o projeto:
 git clone https://github.com/vsoares99/challenge-amigo-secreto.git
 ```
 
-## Casos de Uso 🚀
+## Casos de Uso
 
 1. **Adicionar um amigo**:
    - Digite o nome no campo de texto.
