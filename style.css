@@ -131,7 +131,16 @@ ul {
     color: var(--color-text);
     font-family: "Inter", sans-serif;
     font-size: 18px;
-    margin: 20px 0;
+    margin: 7px 0;
+}
+
+/* Quantidade de amigos */
+p {
+    list-style-type: none;
+    color: var(--color-text);
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    margin: 5px 0;
 }
 
 .result-list {
