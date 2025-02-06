@@ -57,6 +57,8 @@ git clone https://github.com/vsoares99/challenge-amigo-secreto.git
 
 ## Casos de Uso
 
+<img src="https://github.com/user-attachments/assets/b942a8ce-cbc3-4c67-9999-8a2c9c4b9a81" width="700"/>
+
 1. **Adicionar um amigo**:
    - Digite o nome no campo de texto.
    - Clique no botão "Adicionar" para incluir o nome na lista.
