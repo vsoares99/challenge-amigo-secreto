@@ -69,7 +69,7 @@ git clone https://github.com/vsoares99/challenge-amigo-secreto.git
 
 ## Desenvolvedor :octocat:
 
-| [<img src="https://avatars.githubusercontent.com/u/100941005?v=4" width=115><br><sub>Victor Soares</sub>](https://github.com/Diana-ops) |
+| [<img src="https://avatars.githubusercontent.com/u/100941005?v=4" width=115><br><sub>Victor Soares</sub>](https://github.com/vsoares99) |
 | :---: |
 
 ## Licença 
