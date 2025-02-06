@@ -38,7 +38,7 @@
 
 :heavy_check_mark: **Sortear amigo**: Realize o sorteio de um nome aleatório da lista.
 
-## Layout ou Deploy da Aplicação :dash:
+## Deploy da Aplicação :dash:
 
 > https://challenge-amigo-secreto-weld.vercel.app
 
