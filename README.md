@@ -74,4 +74,4 @@ git clone https://github.com/vsoares99/challenge-amigo-secreto.git
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: Ano - Amigo Secreto
+Copyright :copyright: 2025 - Amigo Secreto
