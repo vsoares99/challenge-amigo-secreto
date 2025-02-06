@@ -40,7 +40,7 @@
 
 ## Layout ou Deploy da Aplicação :dash:
 
-> https://certificates-for-everyone-womakerscode.netlify.app/
+> https://challenge-amigo-secreto-weld.vercel.app
 
 ## Pré-requisitos
 
