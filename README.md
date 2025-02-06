@@ -1,17 +1,61 @@
-# Amigo Secreto 🎁
+<h1><img src="https://github.com/user-attachments/assets/5a135a7d-5dab-4ac0-b92e-0e52e71cca16"/></h1> 
 
-Um projeto parte do desafio prático do programa ONE + Alura, Challenge do Amigo Secreto. Desenvolvido com HTML, CSS e JavaScript.
+<p align="center">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 
-![Preview do Projeto](assets/amigo-secreto.png)
+> Status do Projeto: :heavy_check_mark:
+
+### Tópicos 
+
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+
+:small_blue_diamond: [Funcionalidades](#funcionalidades)
+
+:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+
+:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+
+:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+
+## Descrição do projeto 🛠️
+
+<p align="justify">
+  Um projeto parte do desafio prático do programa ONE + Alura, Challenge do Amigo Secreto. Desenvolvido com HTML, CSS e JavaScript.
+</p>
 
 ## Funcionalidades ✨
 
-- **Adicionar amigos**: Insira os nomes dos participantes do amigo secreto.
-- **Listar amigos**: Visualize todos os nomes adicionados na lista de amigos.
-- **Contar amigos**: Visualize a quantidade de nomes adicionados na lista de amigos.
-- **Sortear amigo**: Realize o sorteio de um nome aleatório da lista.
+:heavy_check_mark: **Adicionar amigos**: Insira os nomes dos participantes do amigo secreto. 
 
-## Como Usar 🚀
+:heavy_check_mark: **Listar amigos**: Visualize todos os nomes adicionados na lista de amigos.
+
+:heavy_check_mark: **Contar amigos**: Visualize a quantidade de nomes adicionados na lista de amigos.  
+
+:heavy_check_mark: **Sortear amigo**: Realize o sorteio de um nome aleatório da lista.
+
+## Layout ou Deploy da Aplicação :dash:
+
+> https://certificates-for-everyone-womakerscode.netlify.app/
+
+## Pré-requisitos 📋
+
+- :warning: Navegador atualizado (Chrome, Firefox, Edge, OperaGX).
+- :warning:  Conexão com a internet (para carregar fontes do Google Fonts).
+
+## Como rodar a aplicação :arrow_forward:
+
+No terminal, clone o projeto: 
+
+```
+git clone https://github.com/vsoares99/challenge-amigo-secreto.git
+```
+
+## Casos de Uso 🚀
 
 1. **Adicionar um amigo**:
    - Digite o nome no campo de texto.
@@ -21,39 +65,13 @@ Um projeto parte do desafio prático do programa ONE + Alura, Challenge do Amigo
    - Após adicionar os nomes, clique no botão "Sortear amigo".
    - O nome sorteado será exibido na seção de resultados.
 
-## Tecnologias Utilizadas 💻
+## Desenvolvedor :octocat:
 
-- **HTML**: Estrutura da página.
-- **CSS**: Estilização e design.
-- **JavaScript**: Lógica para adicionar, contar e sortear amigos.
+| [<img src="https://avatars.githubusercontent.com/u/100941005?v=4" width=115><br><sub>Victor Soares</sub>](https://github.com/Diana-ops) |
+| :---: |
 
-## Pré-requisitos 📋
+## Licença 
 
-- Navegador atualizado (Chrome, Firefox, Edge, OperaGX).
-- Conexão com a internet (para carregar fontes do Google Fonts).
+The [MIT License]() (MIT)
 
-## Como Executar o Projeto Localmente 🛠️
-
-1. **Clone o repositório**:
-   ```
-   git clone https://github.com/vsoares99/challenge-amigo-secreto.git
-
-2. **Acesse a pasta do projeto**:
-   ```
-   cd challenge-amigo-secreto
-   
-3. **Abre o arquivo index.html**:
-   ```
-   Clique 2 vezes no arquivo index.hmtl para abrir no navegador
-
-## Estrutura do Projeto 📂
-  ```
-    challenge-amigo-secreto/
-  ├── assets/
-  │   ├── amigo-secreto.png       # Imagem de preview
-  │   ├── play_circle_outline.png # Ícone do botão de sorteio
-  ├── style.css                   # Estilos CSS
-  ├── app.js                      # Lógica JavaScript
-  ├── index.html                  # Página principal
-  ├── README.md                   # Este arquivo
-````
+Copyright :copyright: Ano - Amigo Secreto
